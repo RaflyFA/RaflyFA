@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hallo!! I'm Rafly FA 👋
+![Rafly Fahusnul Akbar](img/Gambar%20WhatsApp%202025-05-12%20pukul%2017.29.38_1d2a0b99.jpg)
 
 <!--
 **RaflyFA/RaflyFA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning **Next JS**
