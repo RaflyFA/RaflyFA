@@ -1,7 +1,11 @@
 ## Hello!! I'm Rafly FA 👋
-I'm a passionate Information Systems student who loves building clean, responsive web interfaces. I focus on Front-End Development using React, Next.js, and Tailwind CSS. I also enjoy crafting user-friendly UI/UX designs. Currently, I'm working on several personal projects to sharpen my skills and build a portfolio that speaks louder than a résumé.<br>
+I’m Rafly FA, an Information Systems student who’s passionate about web development and UI/UX design. I enjoy turning ideas into real, functional, and user-friendly websites. My main stack includes HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS—tools I love using to build smooth user experiences with clean design.
 
-![https://instagram.com/Rfl.yfa](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/rafly-fahusnul-akbar](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+Right now, I'm focusing on building real-world projects like a mini e-commerce app to sharpen my frontend skills and grow my portfolio. I believe consistency beats talent, and that learning by doing is the best way to level up in tech. My goal is to keep growing, keep shipping, and maybe one day inspire other aspiring devs to do the same.
+<br>
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Rfl.yfa) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafly-fahusnul-akbar)
+
 <!-- [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Rfl.yfa) [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/rafly-fahusnul-akbar) [![My Skills](https://skillicons.dev/icons?i=discord)]() ![My Skills](https://skillicons.dev/icons?i=twitter) -->
 ###
 
