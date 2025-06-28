@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,next,react)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaflyFA&hide=contribs,prs&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaflyFA&show_icons=true&theme=transparent)
 
 <h2 align="left">Play games whith me</h2>
 
