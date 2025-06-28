@@ -6,8 +6,9 @@ Right now, I'm focusing on building real-world projects like a mini e-commerce a
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Rfl.yfa) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafly-fahusnul-akbar)
 
+---
+
 <!-- [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Rfl.yfa) [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/rafly-fahusnul-akbar) [![My Skills](https://skillicons.dev/icons?i=discord)]() ![My Skills](https://skillicons.dev/icons?i=twitter) -->
-###
 
 
 <!--
