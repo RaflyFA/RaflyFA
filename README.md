@@ -1,5 +1,5 @@
-## Hello!! I'm Rafly FA 👋
-I’m Rafly FA, an Information Systems student who’s passionate about web development and UI/UX design. I enjoy turning ideas into real, functional, and user-friendly websites. My main stack includes HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS—tools I love using to build smooth user experiences with clean design.
+## Hello!! I'm Rafly 👋
+I’m Rafly, an Information Systems student who’s passionate about web development and UI/UX design. I enjoy turning ideas into real, functional, and user-friendly websites. My main stack includes HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS—tools I love using to build smooth user experiences with clean design.
 
 Right now, I'm focusing on building real-world projects like a mini e-commerce app to sharpen my frontend skills and grow my portfolio. I believe consistency beats talent, and that learning by doing is the best way to level up in tech. My goal is to keep growing, keep shipping, and maybe one day inspire other aspiring devs to do the same.
 <br>
